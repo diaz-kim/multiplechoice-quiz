@@ -1,0 +1,35 @@
+[
+  {
+    "question": "What color sky?",
+    "image": "blue",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What color blood?",
+    "image": "red",
+    "answers": [
+      "Blue",
+      "Red",
+      "TV static",
+      "Black"
+    ],
+    "correctAnswer": 2
+  },
+{
+    "question": "What color grass?",
+    "image": "green",
+    "answers": [
+      "Blue",
+      "Red",
+      "Green",
+      "Black"
+    ],
+    "correctAnswer": 3
+  }
+]
